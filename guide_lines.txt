@@ -13,3 +13,7 @@
 # <User name : user email>
 # 1. ..................
 # 2. ..................
+
+
+# <gururajan-padmanaban : s.p.gururajan@gmail.com>
+1. Kindly remove the merge option for coloburator. 
