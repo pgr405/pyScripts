@@ -1,0 +1,15 @@
+# Dear contributors kindly follow the given guid line. 
+# If you wish to suggest. Kindly add the same under suggetions. 
+
+
+# Maseter
+1. This repo contans the tutorial scripts for python.
+2. Kindly follow the naming convetion tut-<filename>.py
+
+
+
+# Suggesstions
+# Foramt: 
+# <User name : user email>
+# 1. ..................
+# 2. ..................
