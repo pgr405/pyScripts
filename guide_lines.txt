@@ -4,7 +4,7 @@
 
 # Maseter
 1. This repo contans the tutorial scripts for python.
-2. Kindly follow the naming convetion tut-<filename>.py
+2. Kindly follow the naming convetion tut-<filename>.py.
 
 
 
