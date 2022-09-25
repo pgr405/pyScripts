@@ -16,4 +16,4 @@
 
 
 # <gururajan-padmanaban : s.p.gururajan@gmail.com>
-1. Kindly remove the merge option for coloburator. 
+1. Kindly add branch protection rule for master branch. 
